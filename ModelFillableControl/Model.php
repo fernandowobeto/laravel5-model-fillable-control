@@ -1,6 +1,6 @@
 <?php
 
-namespace ModelFillableControl;
+namespace FernandoWobeto\ModelFillableControl;
 
 use Illuminate\Database\Eloquent\Model as LaravelModel;
 use Illuminate\Support\Arr;
