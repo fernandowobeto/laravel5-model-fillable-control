@@ -1,0 +1,19 @@
+{
+  "name": "fernandowobeto/ModelFillableControl",
+  "description": "Class to control fillable data model input",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fernando wobeto",
+      "email": "contato@fernandowobeto.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.2"
+  },
+  "autoload": {
+    "psr-0": {
+      "fernandowobeto\\": ""
+    }
+  }
+}
