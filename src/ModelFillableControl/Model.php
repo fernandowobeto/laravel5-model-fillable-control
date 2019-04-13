@@ -2,10 +2,10 @@
 
 namespace ModelFillableControl;
 
-use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Model as LaravelModel;
 use Illuminate\Support\Arr;
 
-class ModelFillableDataControl
+class Model extends LaravelModel
 {
 
     protected $fillable = [];
