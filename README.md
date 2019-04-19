@@ -2,7 +2,7 @@
 <img src="https://laravel.com/assets/img/components/logo-laravel.svg">
 </p>
 
-#ModelFillableControl
+# ModelFillableControl
 #### Compatible with laravel 5.*
 
 <p align="center">
