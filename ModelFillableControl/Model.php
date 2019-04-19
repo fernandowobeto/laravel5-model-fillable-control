@@ -24,7 +24,7 @@ class Model extends LaravelModel
 
     private function hasFillableAttribute(string $attribute): bool
     {
-        return isset($this->fillable[$attribute]);
+        return array_search($attribute, $this->fillable);
     }
 
 }
