@@ -17,7 +17,7 @@ Add fernandowobeto/model-fillable-control to your composer.json file:
 
 ```
 "require": {
-  "fernandowobeto/model-fillable-control": "1.0"
+  "fernandowobeto/model-fillable-control": "1.1"
 }
 ```
 
